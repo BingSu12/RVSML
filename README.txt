@@ -27,9 +27,6 @@ Tested under Windows 7 x64, Matlab R2015b.
         EvaluateRVSML_MSRAction3D_60
 
 
-- Codes and data for experiments on other datasets may be available.
-
-
 
 3. License & disclaimer.
 
