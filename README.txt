@@ -1,4 +1,4 @@
-                                                          Learning Distance for Sequences by Learning a Ground Metric
+                              Learning Distance for Sequences by Learning a Ground Metric
 
 1. Introduction.
 
